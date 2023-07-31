@@ -1,0 +1,10 @@
+.MuiBox-root.products_grid {
+  margin: 20px 80px 0 80px;
+  display: flex;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 20px;
+  flex: 1 0 0;
+  align-self: stretch;
+  flex-wrap: wrap;
+}
